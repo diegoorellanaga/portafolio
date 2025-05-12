@@ -1,0 +1,8 @@
+.layout-background {
+    background-image: url("/images/background.jpg"); /* Usa la ruta correcta */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; /* <- Esto hace que la imagen se quede fija */
+    min-height: 100vh;
+  }
+  
